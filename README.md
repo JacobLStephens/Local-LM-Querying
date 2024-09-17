@@ -1,0 +1,1 @@
+This a project in which a Local Language Model (PHI-3) is fed a file of prompts, with the responses then copied to another file. It is the first step in a larger LM project.
