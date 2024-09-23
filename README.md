@@ -10,6 +10,7 @@ The project, as it currently stands, consists of the following:
 
 Along with the modules in requirements.yaml, this program requires ollama and phi3 mini.
 Ollama can be downloaded from their official website [here](https://ollama.com/)
+
 Once Ollama is downloaded, phi3 mini can be downloaded by running the following terminal command: ollama run phi3:mini
 
 (This project is a work in progress, and will be updated as it evolves)
