@@ -22,7 +22,7 @@ for p in prompts:
         },
     ])
 
-# prints the responses and puts them into the specified file
+# prints the responses and puts them into the specified file (still in for loop)
     print (response['message']['content'])
     outfile.write(response['message']['content'])
     outfile.write("\n")
