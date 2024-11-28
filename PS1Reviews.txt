@@ -66,6 +66,10 @@ Title: Bought a PS1 unit that isn't functioning.
  Comment: The unit does not play games.  It powers up but doesn't work.
 Title: Love my puchase
  Comment: Great value and arrived on time
+Title: Gave an extra Gane I cannot wait to play!
+ Comment: Gave an extra Gane I cannot wait to play!
+Title: Console is in beautiful condition and was exactly what I was looking for
+ Comment: Console is in beautiful condition and was exactly what I was looking for
 Title: I will enjoy game system I will have fun playing it and Thank you very much
  Comment: I will enjoy game system I will have fun playing it and Thank you very much
 Title: Awesome
@@ -92,5 +96,3 @@ Title: Item functional and mostly as described.
  Comment: Item functional and mostly as described.
 Title: Awesome item thanks
  Comment: Wonderful and painless purchase
-Title: Thank you!  This is great.
- Comment: Just what I thought it would be.
