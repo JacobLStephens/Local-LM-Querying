@@ -6,7 +6,7 @@
 import ollama as ol
 
 # open initial prompt file, use readlines to put into a list
-infile = open("prompts.txt", "r") 
+infile = open("PS1Reviews.txt", "r") 
 prompts = infile.readlines()
 infile.close()
 

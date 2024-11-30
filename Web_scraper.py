@@ -31,7 +31,7 @@ def scrape_data(urls):
             if title_tag and body_tag:
                 title = title_tag.get_text(strip=True)
                 body = body_tag.get_text(strip=True)
-                reviews.append(f"Title: {title}\n Comment: {body}\n")
+                reviews.append(f"Title: {title} Comment: {body}\n")
 
     #return list of reviews and titles
     return reviews
