@@ -1,7 +1,11 @@
+#This class serves to manipulate the review data. It reads in the review data from the webscraper, formats the data to be presented to the LLM, and writes the filtered data to the outfile.
+
+#Utilizes an abc, allows for different classes with other formatting styles
 from Format_Reviews import FormatReviews
 
 class SentimentFormatting(FormatReviews):
 
+    #Reads in the file
     def readin(self, infilename):
         infile = open(infilename, "r", encoding="utf8")
         data = infile.readlines()
@@ -9,6 +13,7 @@ class SentimentFormatting(FormatReviews):
         
         return data
 
+    #Formats the data to prompt the LLM properly
     def format(self, data):
         formatted_data = []
         for line in data:
@@ -18,6 +23,7 @@ class SentimentFormatting(FormatReviews):
         
         return formatted_data
     
+    #Writes the finished data to an outfile
     def writeto(self, data, outfilename):
         outfile = open(outfilename, "w+", encoding="utf8")
         for line in data:

@@ -31,6 +31,9 @@ Positive
 Positive
 Positive
 Positive
+Positive
+Positive
+Positive
 Negative
 Negative
 Negative
@@ -40,7 +43,7 @@ Negative
 Negative
 Negative
 Negative
-Neutral
+Negative
 Neutral
 Neutral
 Neutral
