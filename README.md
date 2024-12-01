@@ -18,6 +18,7 @@ The product sentiments gathered were all from the "Playstation" family of video 
 
 These sentiments were then compiled into a bar graph as seen below:
 ![Sentiments Graph](https://github.com/JacobLStephens/Local-LM-Querying/blob/Sentiments/Playstation%20Sentiments%20Graph.png)
+This graph shows an overwhelmingly positive response to each product.
 
 ## Features
 
