@@ -42,7 +42,7 @@ This program utilizes several python modules/dependencies, including:
 - abc 
 - pytest 
 
-All of these dependencies are inlcuded in the requirements.yml file, which can be utilized by the following steps:
+All of these dependencies are included in the requirements.yml file, which can be utilized by the following steps:
 
 ### 1. Installing Conda
 Miniconda, a lightweight environment manager, can be downloaded [here.](https://docs.anaconda.com/miniconda/miniconda-install/)
